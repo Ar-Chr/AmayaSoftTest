@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14f4d3c2d49d9e742a152c3d37197847, type: 3}
+  m_Name: Letters
+  m_EditorClassIdentifier: 
+  items:
+  - Name: A
+    Sprite: {fileID: 4963718625464178563, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 1, g: 0.81799996, b: 0.9405, a: 1}
+  - Name: B
+    Sprite: {fileID: 7783457984840754399, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 1, g: 0.797, b: 0.8330161, a: 1}
+  - Name: C
+    Sprite: {fileID: 3234300448368640894, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 1, g: 0.81050783, b: 0.615, a: 1}
+  - Name: D
+    Sprite: {fileID: 7911670913450602933, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 1, g: 0.9187451, b: 0.741, a: 1}
+  - Name: E
+    Sprite: {fileID: 4652326554734856401, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 1, g: 0.78723687, b: 0.685, a: 1}
+  - Name: F
+    Sprite: {fileID: -6426668015567183463, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 0.8574333, g: 0.81799996, b: 1, a: 1}
+  - Name: G
+    Sprite: {fileID: 216406037199867053, guid: 087e41439c81b4246abe1cb607d287f9, type: 3}
+    FillColor: {r: 1, g: 0.776, b: 0.8138181, a: 1}
+  - Name: H
+    Sprite: {fileID: -8235857483100294123, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 0.82008374, g: 0.7740586, b: 1, a: 1}
+  - Name: I
+    Sprite: {fileID: -3541686595128163680, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 1, g: 0.83000004, b: 0.643, a: 1}
+  - Name: J
+    Sprite: {fileID: -2756605603065543306, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 1, g: 0.776, b: 0.93452305, a: 1}
+  - Name: K
+    Sprite: {fileID: -1127063002332224934, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 1, g: 0.78286, b: 0.671, a: 1}
+  - Name: L
+    Sprite: {fileID: -5901097786099144959, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 1, g: 0.9258553, b: 0.755, a: 1}
+  - Name: M
+    Sprite: {fileID: 3295844289267200183, guid: 087e41439c81b4246abe1cb607d287f9,
+      type: 3}
+    FillColor: {r: 0.8440909, g: 0.825, b: 1, a: 1}
+  - Name: N
+    Sprite: {fileID: 7112752472869403061, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 1, g: 0.783, b: 0.9287969, a: 1}
+  - Name: O
+    Sprite: {fileID: 5433449995169814141, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 1, g: 0.783, b: 0.8236875, a: 1}
+  - Name: P
+    Sprite: {fileID: -4252152113809563852, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 1, g: 0.79933333, b: 0.699, a: 1}
+  - Name: Q
+    Sprite: {fileID: -4447791616812998045, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 0.8291525, g: 0.79, b: 1, a: 1}
+  - Name: R
+    Sprite: {fileID: -6342808464625005154, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 1, g: 0.92113334, b: 0.727, a: 1}
+  - Name: S
+    Sprite: {fileID: 8083504644574312765, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 1, g: 0.84758765, b: 0.69200003, a: 1}
+  - Name: T
+    Sprite: {fileID: -4461999128152558772, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 0.82278335, g: 0.783, b: 1, a: 1}
+  - Name: U
+    Sprite: {fileID: 3270655726746431581, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 1, g: 0.797, b: 0.9357167, a: 1}
+  - Name: V
+    Sprite: {fileID: -2983290644488427326, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 1, g: 0.73399997, b: 0.7783334, a: 1}
+  - Name: W
+    Sprite: {fileID: -9165466868132007793, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 1, g: 0.741, b: 0.7880909, a: 1}
+  - Name: X
+    Sprite: {fileID: 4461586319009975920, guid: ffc4a5037e095ba48ac348d7e55f2871,
+      type: 3}
+    FillColor: {r: 1, g: 0.8952947, b: 0.657, a: 1}
+  - Name: Y
+    Sprite: {fileID: -5001085640463096552, guid: 433ebf470b67f7f41991c94379343d9d,
+      type: 3}
+    FillColor: {r: 0.80563337, g: 0.762, b: 1, a: 1}
+  - Name: Z
+    Sprite: {fileID: 3539555106843919260, guid: 433ebf470b67f7f41991c94379343d9d,
+      type: 3}
+    FillColor: {r: 1, g: 0.75571185, b: 0.503, a: 1}
