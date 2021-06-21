@@ -4,7 +4,7 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 713280799919615747
-    second: SD_NC_Numbers_10_0
+    second: SD_NC_Numbers_10
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -89,7 +89,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SD_NC_Numbers_10_0
+      name: SD_NC_Numbers_10
       rect:
         serializedVersion: 2
         x: 6
@@ -97,7 +97,7 @@ TextureImporter:
         width: 473
         height: 396
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
